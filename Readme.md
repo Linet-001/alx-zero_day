@@ -2,6 +2,7 @@
 ##This include setting up a file directory on your computer named *alx-pre_course* and then moving it to your github account repository named *alx-pre_course.git*
 *ITS MANAGED BY THE OWNER
 The owner is LinetNyambuu
+This is my first reamdme.
 
 *
 
